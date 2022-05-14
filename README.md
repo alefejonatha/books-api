@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# restapi
-API de livros feita com go 
-=======
 REST-API com go, end point de livraria.
 
 *Utilizando Gin (https://github.com/gin-gonic/gin) para criar o server, rotas, instânciar controllers.
@@ -14,4 +10,3 @@ go get -u gorm.io/gorm
 go get -u github.com/go-sql-driver/mysql
 
 *gorm.io/driver/mysql
->>>>>>> 3a944c7 (Commit inicial)
